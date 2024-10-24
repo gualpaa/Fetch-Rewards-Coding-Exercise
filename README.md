@@ -7,3 +7,11 @@ Solutions for these exercises
    - Reviewed Existing Data
       - I have cleaned and structed three datasets: Users, Brands and Receipts
       - This allowed me to understand the data's orginal unstructured form and organize it.
+      - The model includes a clear define of each table listing their fields and primary keys and foreign keys.
+      - Users: Contains user account information
+      - Receipts: contains receipt and transaction data for each user
+      - Brands: contains information about the brands that go along with the products
+      - A user can have multiple receipts which is 1 to many relationships between Users and Receipts
+      - 
+Please refer to ------ for the full representation of the data model
+
