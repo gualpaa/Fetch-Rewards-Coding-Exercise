@@ -15,5 +15,5 @@ Solutions for these exercises
       - CPG: contains information cpg_id, topbrand, name linking to brands table 
       - A user can have multiple receipts which is 1 to many relationships between Users and Receipts
       - 
-Please refer to ------ for the full representation of the data model
+Please refer to Part 1 New Data Model.pdf for the full representation of the data model
 
