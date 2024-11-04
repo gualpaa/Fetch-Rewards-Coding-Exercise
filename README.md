@@ -1,4 +1,4 @@
-# Fetch-Rewards-Coding-Exercise
+# Fetch-Rewards-Coding-Exercise Analytics Engineer
 
 Solutions for these Exercises
 
