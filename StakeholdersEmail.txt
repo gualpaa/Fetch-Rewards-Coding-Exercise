@@ -1,0 +1,50 @@
+Fourth: Communicate with Stakeholders
+
+Good Afternoon Katie, 
+
+I hope this email brings you well. I wanted to provide an insight on the recent data analysis for this 
+part of the exercise and outline some questions and observations related to the data's quality and 
+optimization. I was first initially given data in JSON files, where I then used a python, a programming 
+language to read, clean, and structure the data into a more organization format. Once I have structurally
+and clean the data files I was able to do some checks for run checks ran into a few comments and 
+questions. 
+
+Key Steps Taken & Observations: 
+  1. To begin I cleaned the data to ensure readability and consistency which would allow me to understand
+the data's structure and be able to perform queries. This involved handling missing values, standardizing
+data formats and preparing fields to be able to create queries. 
+
+  2. Some concerns that I have encountered were duplicate data and inconsistent formats. In the user data
+there were 283 duplicates which can affect our ability to produce accurate reports and insights. In order 
+To fix this, we have to do more checks to handle complex data types such as lists and nested dictionaries. 
+Some fields contain mixed data types such as dictionaries and lists within a single column. This would
+complicate our analysis. 
+
+  3. Some questions that I ran into the data is:
+      - if you could share more information about how the data is sourced and is there a standard 
+process for structuring nested data? 
+      - Is there any guidelines or rules to follow when distinguishing between unique and duplicate 
+entries in the user data file?
+      - Lastly, how frequently can this data be expanded in production or updated? 
+
+  4. It is important to understand how the data assets are expected to interact with other systems in 
+the system that would help us structure them more accurately. This would allow in refining indexing
+and data organization. 
+
+Some anticipated performance and scaling challenges I can be concern with is that as the dataset grows,
+We anticipate that some queries may experience slow performance if it is not optimized for scale. From 
+this we have to explore batch processing methods for high volume data transformations that will allow 
+to improve efficiency. 
+
+I look forward to discussing any of these points in more details or if you would like to provide further 
+context. I am confident that with a few adjustments we can be able to optimize the data to support
+reporting. 
+
+Thank you and I look forward to hearing from you with any insights you can provide.
+
+Best Regards,
+Andrea Gualpa 
+
+
+
+
