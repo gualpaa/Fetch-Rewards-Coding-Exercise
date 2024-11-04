@@ -14,6 +14,13 @@ Solutions for these exercises
       - Brands: contains information about the brands that go along with the products (brand_id, barcode, category, cpg (foreign key, name)
       - CPG: contains information cpg_id, topbrand, name linking to brands table 
       - A user can have multiple receipts which is 1 to many relationships between Users and Receipts
-      - 
 Please refer to Part 1 New Data Model.pdf for the full representation of the data model
+
+
+I have completed steps 1-3 on a ipython notebook and included it into my repository. I have labeled every 
+step in the notebook. the first step was to convert a unstructured file to a clean one which is done in 
+the notebook. Make sure to upload the orginal JSON files into the working space for the notebook to run 
+smoothly. 
+
+The last step which is the email to a stakeholder is label as in this repository. 
 
